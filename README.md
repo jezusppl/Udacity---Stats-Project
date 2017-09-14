@@ -1,1 +1,1 @@
-# Udacity---Stats-Project
+# Udacity Projects
